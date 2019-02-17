@@ -8,4 +8,14 @@
 		- Intermediate Spreadsheets for Data Science
 		- Introduction to Shell for Data Science
 		- Introduction to Git for Data Science
+- Lesson #02
+	- How to become a data scientist
+	- Dev platforms for data Science
+	- Python crash course
+		- List, List of Lists
+		- Condicional statements
+		- Dictionaries
+
+
+		
 
