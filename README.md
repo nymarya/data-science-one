@@ -23,6 +23,15 @@
 	- How to assign data using labels and boolean arrays
 	- How to create new rows and columns in pandas
 	- Many new methods to make data analysis easier in pandas
+- Lesson #04
+	- Select columns, rows and individual items using their integer location.
+Work with integer axis labels.
+	- How to use pandas methods to produce boolean arrays.
+	- Use boolean operators to combine boolean comparisons to perform more complex analysis.
+	- Use index labels to align data.
+	- Use aggregation to perform advanced analysis using loops.
+
+
 	
 
 
