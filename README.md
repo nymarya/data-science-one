@@ -30,6 +30,15 @@ Work with integer axis labels.
 	- Use boolean operators to combine boolean comparisons to perform more complex analysis.
 	- Use index labels to align data.
 	- Use aggregation to perform advanced analysis using loops.
+- Lesson #05
+	- Reading CSV files with encodings
+	- Cleaning column names
+	- Converting a string column to numeric
+	- Extracting Values from the start/end of strings
+	- Correcting bad values
+	- Dropping missing values
+
+
 
 
 	
