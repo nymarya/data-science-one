@@ -37,6 +37,11 @@ Work with integer axis labels.
 	- Extracting Values from the start/end of strings
 	- Correcting bad values
 	- Dropping missing values
+- Lesson #07
+	- Groupy operation
+	- Common aggregation methods with groupby
+	- Aggregation with pivot table
+
 
 
 
