@@ -41,6 +41,10 @@ Work with integer axis labels.
 	- Groupy operation
 	- Common aggregation methods with groupby
 	- Aggregation with pivot table
+- Lesson #08
+	- Combining Dataframes with the concat()
+	- Joining Dataframes with the merge()
+
 
 
 
