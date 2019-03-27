@@ -44,6 +44,13 @@ Work with integer axis labels.
 - Lesson #08
 	- Combining Dataframes with the concat()
 	- Joining Dataframes with the merge()
+- Lesson #09
+	- Transforming data with Series, Dataframe
+	- Map, apply, applymap, melt
+- Lesson #10
+	- Using apply() to transform strings
+	- Vectorized string methods
+	- Extracting substring using regular expressions
 
 
 
