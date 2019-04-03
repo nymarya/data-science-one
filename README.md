@@ -51,7 +51,9 @@ Work with integer axis labels.
 	- Using apply() to transform strings
 	- Vectorized string methods
 	- Extracting substring using regular expressions
-
+- Lesson #11
+	- Project: open data ufrn
+	- Crash course: interactive data visualization with Bokeh
 
 
 
