@@ -54,7 +54,9 @@ Work with integer axis labels.
 - Lesson #11
 	- Project: open data ufrn
 	- Crash course: interactive data visualization with Bokeh
-
+- Lesson #12
+	- Storytelling from geographic data
+	- Basemap and Matplotlib
 
 
 
