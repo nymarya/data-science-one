@@ -57,6 +57,12 @@ Work with integer axis labels.
 - Lesson #12
 	- Storytelling from geographic data
 	- Basemap and Matplotlib
+- Lesson #13
+	- Folium
+	- Maps styles, markers, color and icon types
+	- Marker clusters
+	- Heatmap
+	- Popups
 
 
 
