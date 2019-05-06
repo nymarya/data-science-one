@@ -63,6 +63,11 @@ Work with integer axis labels.
 	- Marker clusters
 	- Heatmap
 	- Popups
+- Lesson #14
+	- Working with API
+	- Case study: IBGE
+	- Geojson Files
+	- Creating choropleths maps
 
 
 
