@@ -68,6 +68,14 @@ Work with integer axis labels.
 	- Case study: IBGE
 	- Geojson Files
 	- Creating choropleths maps
+- Lesson #15
+	- Introduction to NetworkX
+	- Construct a simple network with NetworkX
+	- Add attributes
+	- Visualize a network with matplotlib and nxviz
+	- Share and preserve networks
+
+
 
 
 
