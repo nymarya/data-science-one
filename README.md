@@ -74,6 +74,10 @@ Work with integer axis labels.
 	- Add attributes
 	- Visualize a network with matplotlib and nxviz
 	- Share and preserve networks
+- Lesson #16
+	- Network visualization using Gephi
+	- Combine Gephi & NetworkX
+	- Case Study: constructing a network of Wikipedia Pages
 
 
 

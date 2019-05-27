@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<key attr.name="r" attr.type="int" for="node" id="r"/>
+<key attr.name="g" attr.type="int" for="node" id="g"/>
+<key attr.name="b" attr.type="int" for="node" id="b"/>
+<key attr.name="x" attr.type="float" for="node" id="x"/>
+<key attr.name="y" attr.type="float" for="node" id="y"/>
+<key attr.name="size" attr.type="float" for="node" id="size"/>
+<key attr.name="Modularity Class" attr.type="int" for="node" id="modularity_class"/>
+<graph edgedefault="undirected">
+<node id="A">
+<data key="label">A</data>
+<data key="modularity_class">2</data>
+<data key="size">51.714287</data>
+<data key="r">140</data>
+<data key="g">185</data>
+<data key="b">0</data>
+<data key="x">93.43862</data>
+<data key="y">-237.95995</data>
+</node>
+<node id="carrots">
+<data key="label">carrots</data>
+<data key="modularity_class">2</data>
+<data key="size">10.285715</data>
+<data key="r">140</data>
+<data key="g">185</data>
+<data key="b">0</data>
+<data key="x">45.213345</data>
+<data key="y">-420.2416</data>
+</node>
+<node id="eggs">
+<data key="label">eggs</data>
+<data key="modularity_class">0</data>
+<data key="size">26.857143</data>
+<data key="r">217</data>
+<data key="g">125</data>
+<data key="b">216</data>
+<data key="x">-14.69237</data>
+<data key="y">-88.377914</data>
+</node>
+<node id="fatty fish">
+<data key="label">fatty fish</data>
+<data key="modularity_class">4</data>
+<data key="size">35.14286</data>
+<data key="r">0</data>
+<data key="g">199</data>
+<data key="b">255</data>
+<data key="x">201.20302</data>
+<data key="y">-51.786472</data>
+</node>
+<node id="green leafy vegs">
+<data key="label">green leafy vegs</data>
+<data key="modularity_class">2</data>
+<data key="size">43.428574</data>
+<data key="r">140</data>
+<data key="g">185</data>
+<data key="b">0</data>
+<data key="x">-204.5437</data>
+<data key="y">-295.21143</data>
+</node>
+<node id="liver">
+<data key="label">liver</data>
+<data key="modularity_class">0</data>
+<data key="size">43.428574</data>
+<data key="r">217</data>
+<data key="g">125</data>
+<data key="b">216</data>
+<data key="x">131.57872</data>
+<data key="y">138.97542</data>
+</node>
+<node id="milk">
+<data key="label">milk</data>
+<data key="modularity_class">3</data>
+<data key="size">35.14286</data>
+<data key="r">255</data>
+<data key="g">112</data>
+<data key="b">69</data>
+<data key="x">-20.05353</data>
+<data key="y">-302.26877</data>
+</node>
+<node id="tomatoes">
+<data key="label">tomatoes</data>
+<data key="modularity_class">2</data>
+<data key="size">26.857143</data>
+<data key="r">140</data>
+<data key="g">185</data>
+<data key="b">0</data>
+<data key="x">117.61322</data>
+<data key="y">-478.84622</data>
+</node>
+<node id="B12">
+<data key="label">B12</data>
+<data key="modularity_class">0</data>
+<data key="size">35.14286</data>
+<data key="r">217</data>
+<data key="g">125</data>
+<data key="b">216</data>
+<data key="x">92.88596</data>
+<data key="y">-65.37963</data>
+</node>
+<node id="B6">
+<data key="label">B6</data>
+<data key="modularity_class">0</data>
+<data key="size">60.0</data>
+<data key="r">217</data>
+<data key="g">125</data>
+<data key="b">216</data>
+<data key="x">229.15332</data>
+<data key="y">275.62778</data>
+</node>
+<node id="asparagus">
+<data key="label">asparagus</data>
+<data key="modularity_class">1</data>
+<data key="size">10.285715</data>
+<data key="r">35</data>
+<data key="g">150</data>
+<data key="b">111</data>
+<data key="x">379.03122</data>
+<data key="y">308.47192</data>
+</node>
+<node id="beans">
+<data key="label">beans</data>
+<data key="modularity_class">0</data>
+<data key="size">18.57143</data>
+<data key="r">217</data>
+<data key="g">125</data>
+<data key="b">216</data>
+<data key="x">110.328064</data>
+<data key="y">364.3573</data>
+</node>
+<node id="kidneys">
+<data key="label">kidneys</data>
+<data key="modularity_class">0</data>
+<data key="size">26.857143</data>
+<data key="r">217</data>
+<data key="g">125</data>
+<data key="b">216</data>
+<data key="x">14.401797</data>
+<data key="y">372.98807</data>
+</node>
+<node id="potatoes">
+<data key="label">potatoes</data>
+<data key="modularity_class">0</data>
+<data key="size">18.57143</data>
+<data key="r">217</data>
+<data key="g">125</data>
+<data key="b">216</data>
+<data key="x">79.129036</data>
+<data key="y">424.74585</data>
+</node>
+<node id="C">
+<data key="label">C</data>
+<data key="modularity_class">2</data>
+<data key="size">35.14286</data>
+<data key="r">140</data>
+<data key="g">185</data>
+<data key="b">0</data>
+<data key="x">-30.330679</data>
+<data key="y">-527.3477</data>
+</node>
+<node id="pumpkins">
+<data key="label">pumpkins</data>
+<data key="modularity_class">2</data>
+<data key="size">2.0</data>
+<data key="r">140</data>
+<data key="g">185</data>
+<data key="b">0</data>
+<data key="x">-14.180214</data>
+<data key="y">-625.08673</data>
+</node>
+<node id="Ca">
+<data key="label">Ca</data>
+<data key="modularity_class">2</data>
+<data key="size">35.14286</data>
+<data key="r">140</data>
+<data key="g">185</data>
+<data key="b">0</data>
+<data key="x">-202.19006</data>
+<data key="y">-496.48386</data>
+</node>
+<node id="broccoli">
+<data key="label">broccoli</data>
+<data key="modularity_class">2</data>
+<data key="size">10.285715</data>
+<data key="r">140</data>
+<data key="g">185</data>
+<data key="b">0</data>
+<data key="x">-129.2943</data>
+<data key="y">-584.74115</data>
+</node>
+<node id="cheese">
+<data key="label">cheese</data>
+<data key="modularity_class">2</data>
+<data key="size">2.0</data>
+<data key="r">140</data>
+<data key="g">185</data>
+<data key="b">0</data>
+<data key="x">-272.36166</data>
+<data key="y">-563.64</data>
+</node>
+<node id="Cu">
+<data key="label">Cu</data>
+<data key="modularity_class">0</data>
+<data key="size">51.714287</data>
+<data key="r">217</data>
+<data key="g">125</data>
+<data key="b">216</data>
+<data key="x">-113.40105</data>
+<data key="y">350.97214</data>
+</node>
+<node id="nuts">
+<data key="label">nuts</data>
+<data key="modularity_class">4</data>
+<data key="size">35.14286</data>
+<data key="r">0</data>
+<data key="g">199</data>
+<data key="b">255</data>
+<data key="x">-228.38304</data>
+<data key="y">134.67635</data>
+</node>
+<node id="whole grains">
+<data key="label">whole grains</data>
+<data key="modularity_class">4</data>
+<data key="size">26.857143</data>
+<data key="r">0</data>
+<data key="g">199</data>
+<data key="b">255</data>
+<data key="x">-313.90836</data>
+<data key="y">218.69974</data>
+</node>
+<node id="D">
+<data key="label">D</data>
+<data key="modularity_class">3</data>
+<data key="size">18.57143</data>
+<data key="r">255</data>
+<data key="g">112</data>
+<data key="b">69</data>
+<data key="x">232.08087</data>
+<data key="y">-242.02638</data>
+</node>
+<node id="mushrooms">
+<data key="label">mushrooms</data>
+<data key="modularity_class">3</data>
+<data key="size">2.0</data>
+<data key="r">255</data>
+<data key="g">112</data>
+<data key="b">69</data>
+<data key="x">309.7865</data>
+<data key="y">-285.14435</data>
+</node>
+<node id="E">
+<data key="label">E</data>
+<data key="modularity_class">4</data>
+<data key="size">26.857143</data>
+<data key="r">0</data>
+<data key="g">199</data>
+<data key="b">255</data>
+<data key="x">-344.58493</data>
+<data key="y">-129.534</data>
+</node>
+<node id="seeds">
+<data key="label">seeds</data>
+<data key="modularity_class">4</data>
+<data key="size">18.57143</data>
+<data key="r">0</data>
+<data key="g">199</data>
+<data key="b">255</data>
+<data key="x">-283.08173</data>
+<data key="y">-33.041958</data>
+</node>
+<node id="Mn">
+<data key="label">Mn</data>
+<data key="modularity_class">4</data>
+<data key="size">43.428574</data>
+<data key="r">0</data>
+<data key="g">199</data>
+<data key="b">255</data>
+<data key="x">-375.88287</data>
+<data key="y">13.458802</data>
+</node>
+<node id="legumes">
+<data key="label">legumes</data>
+<data key="modularity_class">3</data>
+<data key="size">10.285715</data>
+<data key="r">255</data>
+<data key="g">112</data>
+<data key="b">69</data>
+<data key="x">-260.9548</data>
+<data key="y">-103.10186</data>
+</node>
+<node id="wheat">
+<data key="label">wheat</data>
+<data key="modularity_class">4</data>
+<data key="size">2.0</data>
+<data key="r">0</data>
+<data key="g">199</data>
+<data key="b">255</data>
+<data key="x">-484.01413</data>
+<data key="y">25.47916</data>
+</node>
+<node id="Zn">
+<data key="label">Zn</data>
+<data key="modularity_class">0</data>
+<data key="size">51.714287</data>
+<data key="r">217</data>
+<data key="g">125</data>
+<data key="b">216</data>
+<data key="x">45.725594</data>
+<data key="y">256.40625</data>
+</node>
+<node id="beef">
+<data key="label">beef</data>
+<data key="modularity_class">0</data>
+<data key="size">35.14286</data>
+<data key="r">217</data>
+<data key="g">125</data>
+<data key="b">216</data>
+<data key="x">16.587307</data>
+<data key="y">57.25119</data>
+</node>
+<node id="riboflavin">
+<data key="label">riboflavin</data>
+<data key="modularity_class">3</data>
+<data key="size">35.14286</data>
+<data key="r">255</data>
+<data key="g">112</data>
+<data key="b">69</data>
+<data key="x">-120.376816</data>
+<data key="y">-160.77834</data>
+</node>
+<node id="niacin">
+<data key="label">niacin</data>
+<data key="modularity_class">4</data>
+<data key="size">35.14286</data>
+<data key="r">0</data>
+<data key="g">199</data>
+<data key="b">255</data>
+<data key="x">-137.32669</data>
+<data key="y">50.202965</data>
+</node>
+<node id="folates">
+<data key="label">folates</data>
+<data key="modularity_class">1</data>
+<data key="size">18.57143</data>
+<data key="r">35</data>
+<data key="g">150</data>
+<data key="b">111</data>
+<data key="x">397.95422</data>
+<data key="y">234.69092</data>
+</node>
+<node id="spinach">
+<data key="label">spinach</data>
+<data key="modularity_class">1</data>
+<data key="size">2.0</data>
+<data key="r">35</data>
+<data key="g">150</data>
+<data key="b">111</data>
+<data key="x">483.7055</data>
+<data key="y">257.4255</data>
+</node>
+<node id="poultry">
+<data key="label">poultry</data>
+<data key="modularity_class">0</data>
+<data key="size">18.57143</data>
+<data key="r">217</data>
+<data key="g">125</data>
+<data key="b">216</data>
+<data key="x">231.47902</data>
+<data key="y">127.21025</data>
+</node>
+<node id="shellfish">
+<data key="label">shellfish</data>
+<data key="modularity_class">0</data>
+<data key="size">10.285715</data>
+<data key="r">217</data>
+<data key="g">125</data>
+<data key="b">216</data>
+<data key="x">-125.952896</data>
+<data key="y">247.19858</data>
+</node>
+<node id="thiamin">
+<data key="label">thiamin</data>
+<data key="modularity_class">4</data>
+<data key="size">2.0</data>
+<data key="r">0</data>
+<data key="g">199</data>
+<data key="b">255</data>
+<data key="x">-391.65253</data>
+<data key="y">275.62595</data>
+</node>
+<node id="veg oils">
+<data key="label">veg oils</data>
+<data key="modularity_class">4</data>
+<data key="size">2.0</data>
+<data key="r">0</data>
+<data key="g">199</data>
+<data key="b">255</data>
+<data key="x">-433.5988</data>
+<data key="y">-167.09613</data>
+</node>
+<node id="yogurt">
+<data key="label">yogurt</data>
+<data key="modularity_class">2</data>
+<data key="size">2.0</data>
+<data key="r">140</data>
+<data key="g">185</data>
+<data key="b">0</data>
+<data key="x">-241.17404</data>
+<data key="y">-587.826</data>
+</node>
+<node id="2">
+<data key="label">Se</data>
+<data key="modularity_class">0</data>
+<data key="size">26.857143</data>
+<data key="r">217</data>
+<data key="g">125</data>
+<data key="b">216</data>
+<data key="x">-43.400955</data>
+<data key="y">166.72537</data>
+</node>
+<edge id="75" source="A" target="carrots">
+<data key="weight">1.0</data>
+</edge>
+<edge id="76" source="A" target="eggs">
+<data key="weight">1.0</data>
+</edge>
+<edge id="77" source="A" target="fatty fish">
+<data key="weight">1.0</data>
+</edge>
+<edge id="78" source="A" target="green leafy vegs">
+<data key="weight">1.0</data>
+</edge>
+<edge id="79" source="A" target="liver">
+<data key="weight">1.0</data>
+</edge>
+<edge id="80" source="A" target="milk">
+<data key="weight">1.0</data>
+</edge>
+<edge id="81" source="A" target="tomatoes">
+<data key="weight">1.0</data>
+</edge>
+<edge id="82" source="B12" target="milk">
+<data key="weight">1.0</data>
+</edge>
+<edge id="83" source="B6" target="asparagus">
+<data key="weight">1.0</data>
+</edge>
+<edge id="84" source="B6" target="beans">
+<data key="weight">1.0</data>
+</edge>
+<edge id="85" source="B6" target="fatty fish">
+<data key="weight">1.0</data>
+</edge>
+<edge id="86" source="B6" target="kidneys">
+<data key="weight">1.0</data>
+</edge>
+<edge id="87" source="B6" target="liver">
+<data key="weight">1.0</data>
+</edge>
+<edge id="88" source="B6" target="potatoes">
+<data key="weight">1.0</data>
+</edge>
+<edge id="89" source="C" target="carrots">
+<data key="weight">1.0</data>
+</edge>
+<edge id="90" source="C" target="pumpkins">
+<data key="weight">1.0</data>
+</edge>
+<edge id="91" source="C" target="tomatoes">
+<data key="weight">1.0</data>
+</edge>
+<edge id="92" source="Ca" target="broccoli">
+<data key="weight">1.0</data>
+</edge>
+<edge id="93" source="Ca" target="cheese">
+<data key="weight">1.0</data>
+</edge>
+<edge id="94" source="Cu" target="liver">
+<data key="weight">1.0</data>
+</edge>
+<edge id="95" source="Cu" target="nuts">
+<data key="weight">1.0</data>
+</edge>
+<edge id="96" source="Cu" target="whole grains">
+<data key="weight">1.0</data>
+</edge>
+<edge id="97" source="D" target="fatty fish">
+<data key="weight">1.0</data>
+</edge>
+<edge id="98" source="D" target="milk">
+<data key="weight">1.0</data>
+</edge>
+<edge id="99" source="D" target="mushrooms">
+<data key="weight">1.0</data>
+</edge>
+<edge id="100" source="E" target="nuts">
+<data key="weight">1.0</data>
+</edge>
+<edge id="101" source="E" target="seeds">
+<data key="weight">1.0</data>
+</edge>
+<edge id="102" source="Mn" target="green leafy vegs">
+<data key="weight">1.0</data>
+</edge>
+<edge id="103" source="Mn" target="legumes">
+<data key="weight">1.0</data>
+</edge>
+<edge id="104" source="Mn" target="nuts">
+<data key="weight">1.0</data>
+</edge>
+<edge id="105" source="Mn" target="seeds">
+<data key="weight">1.0</data>
+</edge>
+<edge id="106" source="Mn" target="wheat">
+<data key="weight">1.0</data>
+</edge>
+<edge id="107" source="Mn" target="whole grains">
+<data key="weight">1.0</data>
+</edge>
+<edge id="109" source="Zn" target="beans">
+<data key="weight">1.0</data>
+</edge>
+<edge id="110" source="Zn" target="kidneys">
+<data key="weight">1.0</data>
+</edge>
+<edge id="111" source="Zn" target="potatoes">
+<data key="weight">1.0</data>
+</edge>
+<edge id="112" source="beans" target="Cu">
+<data key="weight">1.0</data>
+</edge>
+<edge id="113" source="beef" target="B12">
+<data key="weight">1.0</data>
+</edge>
+<edge id="114" source="beef" target="B6">
+<data key="weight">1.0</data>
+</edge>
+<edge id="115" source="beef" target="Zn">
+<data key="weight">1.0</data>
+</edge>
+<edge id="116" source="beef" target="riboflavin">
+<data key="weight">1.0</data>
+</edge>
+<edge id="117" source="broccoli" target="C">
+<data key="weight">1.0</data>
+</edge>
+<edge id="118" source="eggs" target="B12">
+<data key="weight">1.0</data>
+</edge>
+<edge id="119" source="eggs" target="riboflavin">
+<data key="weight">1.0</data>
+</edge>
+<edge id="120" source="fatty fish" target="B12">
+<data key="weight">1.0</data>
+</edge>
+<edge id="121" source="fatty fish" target="niacin">
+<data key="weight">1.0</data>
+</edge>
+<edge id="122" source="folates" target="asparagus">
+<data key="weight">1.0</data>
+</edge>
+<edge id="123" source="folates" target="liver">
+<data key="weight">1.0</data>
+</edge>
+<edge id="124" source="folates" target="spinach">
+<data key="weight">1.0</data>
+</edge>
+<edge id="125" source="green leafy vegs" target="C">
+<data key="weight">1.0</data>
+</edge>
+<edge id="126" source="green leafy vegs" target="Ca">
+<data key="weight">1.0</data>
+</edge>
+<edge id="127" source="green leafy vegs" target="E">
+<data key="weight">1.0</data>
+</edge>
+<edge id="128" source="green leafy vegs" target="riboflavin">
+<data key="weight">1.0</data>
+</edge>
+<edge id="129" source="kidneys" target="Cu">
+<data key="weight">1.0</data>
+</edge>
+<edge id="130" source="legumes" target="riboflavin">
+<data key="weight">1.0</data>
+</edge>
+<edge id="132" source="liver" target="Zn">
+<data key="weight">1.0</data>
+</edge>
+<edge id="133" source="milk" target="Ca">
+<data key="weight">1.0</data>
+</edge>
+<edge id="134" source="milk" target="riboflavin">
+<data key="weight">1.0</data>
+</edge>
+<edge id="135" source="niacin" target="beef">
+<data key="weight">1.0</data>
+</edge>
+<edge id="136" source="niacin" target="nuts">
+<data key="weight">1.0</data>
+</edge>
+<edge id="137" source="niacin" target="seeds">
+<data key="weight">1.0</data>
+</edge>
+<edge id="138" source="niacin" target="whole grains">
+<data key="weight">1.0</data>
+</edge>
+<edge id="139" source="nuts" target="Zn">
+<data key="weight">1.0</data>
+</edge>
+<edge id="140" source="potatoes" target="Cu">
+<data key="weight">1.0</data>
+</edge>
+<edge id="141" source="poultry" target="B12">
+<data key="weight">1.0</data>
+</edge>
+<edge id="142" source="poultry" target="B6">
+<data key="weight">1.0</data>
+</edge>
+<edge id="143" source="poultry" target="Zn">
+<data key="weight">1.0</data>
+</edge>
+<edge id="144" source="shellfish" target="Cu">
+<data key="weight">1.0</data>
+</edge>
+<edge id="146" source="thiamin" target="whole grains">
+<data key="weight">1.0</data>
+</edge>
+<edge id="147" source="tomatoes" target="tomatoes">
+<data key="weight">1.0</data>
+</edge>
+<edge id="148" source="veg oils" target="E">
+<data key="weight">1.0</data>
+</edge>
+<edge id="149" source="yogurt" target="Ca">
+<data key="weight">1.0</data>
+</edge>
+<edge id="157" source="shellfish" target="2">
+<data key="weight">1.0</data>
+</edge>
+<edge id="158" source="liver" target="2">
+<data key="weight">1.0</data>
+</edge>
+<edge id="155" source="2" target="eggs">
+<data key="weight">1.0</data>
+</edge>
+<edge id="156" source="2" target="kidneys">
+<data key="weight">1.0</data>
+</edge>
+</graph>
+</graphml>
