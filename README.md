@@ -78,6 +78,9 @@ Work with integer axis labels.
 	- Network visualization using Gephi
 	- Combine Gephi & NetworkX
 	- Case Study: constructing a network of Wikipedia Pages
+- Lesson #17
+	- Create Networks from Adjacency and Incidence Matrices
+	- Generate Synthetic Networks
 
 
 
