@@ -81,6 +81,12 @@ Work with integer axis labels.
 - Lesson #17
 	- Create Networks from Adjacency and Incidence Matrices
 	- Generate Synthetic Networks
+- Lesson #18
+	- Global measures
+	- Explore neighborhoods
+	- Think in terms of paths
+	- Choose the right centralities
+
 
 
 
