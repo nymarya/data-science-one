@@ -86,6 +86,12 @@ Work with integer axis labels.
 	- Explore neighborhoods
 	- Think in terms of paths
 	- Choose the right centralities
+- Lesson #19
+	- Use the urllib and requests packages
+	- Make HTTP requests (GET requests)
+	- Scrape web data such as HTML
+	- Parse HTML into useful data (BeautifulSoup)
+
 
 
 
